@@ -34,7 +34,7 @@ public interface GymTrainerRepository extends JpaRepository<GymTrainer, Long> {
     // we can also make query such get most experience by gender or for each gender
     // or most experience for a particular specialisation
     // we will handle them later.
-    // we will handle them later. 
+    // we will handle them later.
 
 
 
